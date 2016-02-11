@@ -1,6 +1,8 @@
 Building an OMERO Virtual Appliance
 ===================================
 
+**Note that the Virtual Appliance has been discontinued, OMERO 5.2.1 is the last version available.**
+
 The purpose of these scripts is to automate the process of building an OMERO 
 virtual machine.
 
